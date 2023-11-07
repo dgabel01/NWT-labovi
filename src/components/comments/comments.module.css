@@ -1,0 +1,32 @@
+.commentsContainer {
+    width: 70%;
+    margin: 0px auto;
+}
+
+.commentContainer {
+    border: 1px solid var(--mainColor);
+    border-radius: 5px;
+    padding: 15px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.commentPersonal {
+    color: var(--mainColor);
+    width: 10%;
+}
+
+.commentImage {
+    width: 100%;
+}
+
+.commentEmail {
+    margin-bottom: 20px;
+}
+
+.commentBody {
+    width: 60%;
+    margin: auto 0px;
+}

@@ -1,0 +1,113 @@
+.mainHeader {
+    background-color: var(--mainColor);
+}
+
+.innerHeaderContainer {
+    background: url('http://localhost:3000/header03.jpg');
+    text-align: center;
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    overflow: hidden;
+    border-radius: 0 0 85% 85% / 30%;
+    border-bottom: 3px white solid;
+}
+
+.overlay {
+    width: 100%;
+    height: 100%;
+    padding: 50px;
+    color: #FFF;
+    text-shadow: 1px 1px 1px #333;
+    background-image: linear-gradient(135deg, #05c5ff21 10%, #08d8fd2c 10%);
+    border-radius: 0 0 85% 85% / 30%;
+    min-height: 50vh;
+}
+
+.headerTitle {
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
+    margin-bottom: 30px;
+}
+
+
+.primaryNavigation {
+    background-color: var(--mainColor);
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0 0 100% 100% / 100%;
+    position: sticky;
+    top: -1px;
+    transition: all 0.2s;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.primaryNavigation ul {
+    display: flex;
+}
+
+.primaryNavigation ul li {
+    list-style: none;
+    margin: 0 auto;
+    border-left: 2px solid #3ca0e7;
+    padding: 0 30px;
+    position: relative; /*bitno za sub meni*/
+}
+
+.primaryNavigation ul li:first-of-type {
+    border-left: none;
+}
+
+.primaryNavigation li a {
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    text-decoration: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.primaryNavigation li a:hover {
+    color: #3ca0e7;
+}
+
+.primaryNavigation ul li ul {
+    visibility: hidden;
+    display: none;
+    opacity: 0;
+    position: absolute;
+    padding-left: 0;
+    left: 0;
+    background: var(--mainColor);
+}
+
+.primaryNavigation ul li:hover>ul,
+.primaryNavigation ul li ul:hover {
+    visibility: visible;
+    opacity: 1;
+    display: block;
+    min-width: 250px;
+    padding-top: 20px;
+}
+
+.primaryNavigation ul li ul li {
+    margin-bottom: 20px;
+}
+
+.primaryNavigation ul li ul li a {
+    transition: all 0.5s ease;
+    text-decoration: none;
+}
+
+.primaryNavigation ul li ul li a:hover {
+    padding-left: 10px;
+    border-left: 2px solid #3ca0e7;
+}
+
+
+
+

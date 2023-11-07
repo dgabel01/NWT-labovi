@@ -1,0 +1,34 @@
+.parkContainer {
+  padding: 0% 10%;
+}
+
+
+
+.title {
+  margin-left: 50px;
+}
+
+.posts {
+  margin-top: 50px;
+}
+
+.postContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+
+.postTitle {
+  border-bottom: 3px solid var(--mainColor);
+  margin-bottom: 20px;
+}
+
+.postText {
+  width: 65%;
+}
+
+.postImage {
+  width: 30%;
+}
+

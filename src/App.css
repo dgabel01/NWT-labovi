@@ -1,44 +1,102 @@
-.App p {
-  margin-left: 5px;
-  margin-bottom: 10px;
-  padding: 5px;
+:root {
+  --mainColor: #3091a2;
+  --mainColorLigth: #5ab8c9;
 }
 
-.App h1{
-  margin-left: 5px;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.main-container {
+  padding: 20px;
+  max-width: 1200px;
+  margin: auto;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.logo {
+  font-size: 30px;
+  color: white;
+  font-family: "Dancing Script", cursive;
+  position: absolute;
+  left: 30px;
+  opacity: 0;
+  transition: all 0.5s;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+nav.isSticky {
+  /* specificity */
+  border-radius: 0;
+}
+
+nav.isSticky .logo {
+  opacity: 1;
+}
+
+input,
+textarea,
+label {
+  display: block;
+  width: 100%;
+}
+
+textarea {
+  height: 130px;
+}
+
+input,
+textarea {
+  margin-bottom: 20px;
+  margin-top: 5px;
+  font-size: 1.2rem;
+  padding: 15px;
+  border: 1px solid var(--mainColor);
+  border-radius: 5px;
+}
+
+input:hover,
+textarea:hover {
+  box-shadow: 0 0 0 2px var(--mainColor);
+}
+
+input:focus,
+textarea:focus {
+  outline-color: var(--mainColorLigth);
+  box-shadow: none;
+}
+
+button {
+  font-size: 1.2rem;
+  padding: 15px 30px;
+  border: 1px solid var(--mainColor);
+  border-radius: 5px;
+  background-color: var(--mainColor);
+  color: white;
+  font-weight: bold;
+}
+
+button:hover {
+  box-shadow: 0 0 0 1px var(--mainColor);
+  background-color: var(--mainColorLigth);
+  color: #333;
+}
+
+button:focus {
+  background-color: var(--mainColorLigth);
+  border-color: var(--mainColor);
+  box-shadow: none;
+}
+
+button:active {
+  box-shadow: 0 0 0 2px var(--mainColor);
+  outline: none;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.titleContainer {
+  margin-top: 50px;
+  padding-bottom: 30px;
+  margin-bottom: 40px;
+  border-bottom: 3px solid var(--mainColor);
 }

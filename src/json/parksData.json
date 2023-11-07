@@ -1,0 +1,146 @@
+{
+  "parks": [
+    {
+      "id": 0,
+      "name": "Brijuni",
+      "description": "Brijuni su otočje i nacionalni park u Jadranskom moru, na hrvatskom dijelu Jadrana, a sastoje se od 14 otoka i otočića. Brijuni imaju bogatu povijest: prvi, zasada nama poznati tragovi ljudskog djelovanja na Brijunima, sežu u treće tisućljeće prije Krista, kada su na Brijunima živjeli etnički nepoznati stanovnici koji su se bavili ratarstvom, stočarstvom, lovom i ribolovom, a oružje i oruđe izrađivali su od kamena, kostiju i pruća... Za vrijeme velike Egejske seobe naroda u prvom tisućljeću prije Krista na Brijune dolazi ilirsko pleme Histri, po kojima je kasnije Istra i dobila ime. Nakon kojih su došli Rimljani, a od 6. do 8. st. otočjem je (kao i Istrom) vladao Bizant. Na Brijunima postoje mnogi kulturno-povijesni ostaci od kojih su najpoznatiji i najsačuvaniji: rimski ladanjski dvorac iz I.-II. st. s termama, Venerinim hramom, zatim Bizantski kastrum, te bazilika Sv. Marije iz V.-VI. stoljeća, crkva Sv. Germana iz 15. stoljeća. Zahvaljujući svojoj razvedenoj obali, povijesti, raznovrsnoj flori i fauni, zbog čega Brijune znaju zvati 'raj na Zemlji', Brijuni su 27. listopada 1983. godine proglašeni nacionalnim parkom i omiljena su turistička destinacija.",
+      "posts": [
+        {
+          "title": "Safari park",
+          "text": "Na sjevernom rubu Velikog Brijuna prostire se 9 ha jedinstvenoga Safari parka kojega nastanjuje neobičan spoj autohtone istarske i egzotične južnoameričke, afričke i azijske faune. Indijski slon Lanka, ljame - južnoameričke deve za koje indijanska legenda kaže da su pripitomljene u najranije doba ljudskog postojanja, zebre, indijske svete krave i nojevi simpatični su stanovnici Safari parka.",
+          "image": "https://www.np-brijuni.hr/imagecache/maxsize/6f67e492-4a50-4136-93fd-89f06287a549/28-02-2019/screenshot_2019_02_28_at_101748.png"
+        },
+        {
+          "title": "Stara maslina",
+          "text": "Stara je maslina jedno od najstarijih stabala masline na Mediteranu, što potvrđuje istraživanje karbonske analize starosti provedeno na uzorku njezina drvnog tkiva. Metodom karbonske analize (upotrebom radiaktivnog izotopa ugljika C14 na uzorku komada drva iz korjenovog vrata debla masline) ustanovljena je starost preko 1600 godina.70-ih godina prošloga stoljeća uslijed velikoga nevremena maslina se raspukla na dva dijela. Rane nastale puknućem stabla konzervirane su betonom (tada je to bila vrlo popularna metoda konzerviranja u arborikulturi).Projekcija krošnje iznosi 22 x 8 metara te je maslina visoka 6 metara.",
+          "image": "https://www.np-brijuni.hr/imagecache/maxsize/6f67e492-4a50-4136-93fd-89f06287a549/28-02-2019/img_1771.jpg"
+        },
+        {
+          "title": "Bizantski kastrum",
+          "text": "Najslojevitiji brijunski lokalitet prostire se na površini nešto većoj od 1 ha. Nalazi iz razdoblja rimske republike i carstva, kasne antike, Istočnih Gota, Bizanta, karolinškog razdoblja i Venecije svjedoče o dugogodišnjoj naseljenosti. U razdoblju Augustove vladavine, djelimice na području prve vile, podignuta je nova rustična vila (dimenzija 51 x 59 metara) sa središnjim dvorištem i uređajima za proizvodnju maslinova ulja i vina te podrumima, kao i skromnije uređenim stambenim pfrostorima.",
+          "image": "https://www.np-brijuni.hr/imagecache/maxsize/6f67e492-4a50-4136-93fd-89f06287a549/29-12-2018/kastrum_2.jpg"
+        },
+        {
+          "title": "Stope dinosaura",
+          "text": "Bogatstvo Brijunskoga otočja uvelike pridonose i paleontološki lokaliteti na kojima je pronađeno preko 200 otisaka stopala dinosaura. Vjeruje se da su ovi drevni gmazovi šetali ovim područjem prije 125 - 100 milijuna godina. Otisci stopa dinosaura mogli su ostati sačuvani jedino u slučaju da su se dinosauri kretali preko mekane podloge i tako ostavljali tragove. Otisci su zatim trebali brzo biti prekriveni sedimentom (različitim od podloge) i ostati netaknuti sve dok dijagenetski procesi ne litificiraju sediment i pretvore ga u konsolidiranu stijenu.",
+          "image": "https://www.np-brijuni.hr/imagecache/maxsize/6f67e492-4a50-4136-93fd-89f06287a549/02-03-2019/stopa_dinosaura.jpg"
+        },
+        {
+          "title": "Uvala Verige",
+          "text": "Na zapadnoj obali Brijuna, duž uvale Verige, smještena je raskošna rimska ladanjska vila. Gradnja vile započela je u 1. stoljeću prije Krista, a najveći sjaj dosegla je u 1. stoljeću poslije Krista. Pojedini dijelovi vile koristili su se do 6. stoljeća. Među brijunskim vilama, kao najveći i najraskošniji ladanjski kompleks, ističe se vila u uvali Verige koja je izvrsno uklopljena u krajolik. Sastojala se od niza građevina raličitih namjena bogato ukrašenih mozaicima, freskama, štukaturama te skupocjenim mramorom.",
+          "image": "https://www.np-brijuni.hr/imagecache/maxsize/6f67e492-4a50-4136-93fd-89f06287a549/01-03-2019/uvala_verige_1.jpg"
+        },
+        {
+          "title": "Fazanerija",
+          "text": "Fazanerija je prostor u kojem se nekada uzgajalo više vrsta autohtone pernate divljači. Kako bi se sa sigurnošću povećao broj neophodno potrebne populacije prepelica, jarebica i fazana koristila se inkubatorska stanica neposredno u blizini vanjskih prostora za uzgoj ove divljači, u svrhu obogaćivanja biološkog lanca u staništu. Danas u fazaneriji možete vidjeti zagorske purane, kokoš biserku i paunove.",
+          "image": "https://www.np-brijuni.hr/imagecache/maxsize/6f67e492-4a50-4136-93fd-89f06287a549/11-03-2019/fazanerija2.jpg"
+        },
+        {
+          "title": "Bazilika Sv. Marije",
+          "text": "Crkva sv. Marije najdugovječnija je kršćanska građevina na otoku. Sagrađena je u 6. stoljeću a brojne dogradnje i pregradnje te natipisi svjedoče o dugotrajnoj uporabi, sve do 18. stoljeća. Crkva četvrtasta tlocrta monolitnim je stupovima podijeljena u tri broda. Bočni zidovi raščlanjeni lezenama, očuvani su gotovo u izvornoj visini.",
+          "image": "https://www.np-brijuni.hr/imagecache/maxsize/6f67e492-4a50-4136-93fd-89f06287a549/01-03-2019/bazilika_svmarije.jpg"
+        },
+        {
+          "title": "Mediteranski vrt",
+          "text": "Brijunski vrt predstavlja pravu atrakciju unutar Nacionalnoga parka Brijuni. Vrt je osnovan 2007. godine na području bivšega šumskoga rasadnika, na površini od 17000 m2.",
+          "image": "https://www.np-brijuni.hr/imagecache/maxsize/6f67e492-4a50-4136-93fd-89f06287a549/28-02-2019/edsc_1320.jpg"
+        },
+        {
+          "title": "Paul Kupelwieser",
+          "text": "“...sadašnji vlasnik Brijunskog otočja, Paul Kupelwieser iskoristio je jesen svojega života za pisanje životnih sjećanja, ne stoga da bi svijetu oko sebe pružio senzaciju, već da bi ih sam zadržao u uspomeni.” Karl Kupelwieser",
+          "image": "https://www.np-brijuni.hr/imagecache/maxsize/6f67e492-4a50-4136-93fd-89f06287a549/29-12-2018/paul_kupelweiser.jpg"
+        }
+      ]
+    },
+
+    {
+      "id": 1,
+      "name": "Krka",
+      "description": "Nacionalni park je prostrano, pretežito neizmijenjeno područje iznimnih i višestrukih prirodnih vrijednosti, a obuhvaća jedan ili više sačuvanih ili neznatno izmijenjenih ekosustava. Namjena mu je prije svega znanstvena, kulturna, odgojno-obrazovna i rekreativna, a zbog posjetitelja postoje i turističke djelatnosti. S potopljenim dijelom ušća Krka je duga oko 72,5 km i po dužini je 22. rijeka u Hrvatskoj. Izvire u podnožju planine Dinare, 3,5 km sjeveroistočno od Knina. Sa sedam sedrenih slapova i ukupnim padom od 224 m, Krka je prirodni i krški fenomen. Sedreni slapovi rijeke Krke temeljni su fenomen ove rijeke. Već je sredinom 20. stoljeća prepoznata potreba da se pravno zaštiti rijeka Krka i njezino zbog iznimnih prirodnih vrjednota koje treba očuvati. ...",
+      "posts": [
+        {
+          "title": "Skradinski buk",
+          "text": "Skradinski buk, najduži slap na rijeci Krki, jedna je od najpoznatijih prirodnih ljepota Hrvatske. Slap tvore sedrene barijere, otoci i jezera. Može ga se razgledati tijekom cijele godine zahvaljujući mreži staza i mostova, koji omogućuju ugodnu i sigurnu šetnju. Na Skradinskom buku nalaze se obnovljeni mlinovi, valjavice i stupe, koje stoljećima koriste snagu vodenog toka. Uz poštivanje tradicijske arhitektonske vrijednosti, pojedini mlinovi uređeni su kao suvenirnice, dok su drugi pretvoreni u izložbene prostore za etnografsku zbirku. Upravo je Etnoselo Skradinski buk u NP Krka dobilo, u konkurenciji nekoliko tisuća lokaliteta, prestižnu nagradu na natjecanju Zlatni cvijet Europe 2006. (Entente Florale Europe), koju dodjeljuje Europsko udruženje za cvijeće i krajobraz.",
+          "image": "http://www.np-krka.hr/upload/stranice/2015/02/2015-02-09/138/skradinskibuk.jpg"
+        },
+        {
+          "title": "Visovac",
+          "text": "Otok Visovac ubraja se u najvažnije prirodne i kulturne vrijednosti Republike Hrvatske. Na njemu se od 1445. godine nalazi franjevački samostan Majke od Milosti i crkva Gospe Visovačke, koji s prekrasnim krajobrazom Visovačkog jezera čine jedinstvenu ambijentalnu cjelinu. Tijekom burne povijesti Visovac je bio i ostao otokom mira i molitve a franjevački samostan tvrđavom duhovnosti i vjere. Samostan posjeduje važnu arheološku zbirku, zbirku povijesnog crkvenog ruha i posuđa te bogatu knjižnicu s više povijesnih rukopisa, vrijednih knjiga i inkunabula. Zbog stoljetnog štovanja Majke Božje nazivaju ga Gospinim otokom. Visovac je oduvijek privlačio hodočasnike, koji i danas organizirano hodočaste koristeći izletničke brodove NP “Krka”.",
+          "image": "http://www.np-krka.hr/upload/stranice/2014/07/2014-07-31/16/visovac0111412.jpg"
+        },
+        {
+          "title": "Oziđana pećina",
+          "text": "Oziđana pećina, lokalitet u sklopu poučno-pješačke staze Stinice – Roški slap – Oziđana pećina, mjesto je od izuzetne prirodne, kulturološke i povijesne vrijednosti. Arheološka istraživanja potvrdila su u pećini nazočnost svih neolitičkih kultura na jadranskome prostoru (impresso, danilske i hvarske kulture), zatim eneolitičkih, te onih ranoga i srednjega brončanog doba. Čovjek je u pećini bio neprekidno prisutan u razdoblju od 5000 do 1500 godina prije Krista. U pećini je, in situ, uređena arheološka zbirka.",
+          "image": "http://www.np-krka.hr/upload/stranice/2014/08/2014-08-08/119/ozianapeina13.jpg"
+        },
+        {
+          "title": "Roški slap",
+          "text": "Roškim slapom naziva se prostrano slapište koje čine 22,5 metra visoki glavni slapovi i bezbroj rukavaca, kaskada i sedrenih otoka. Roški slap smješten je oko 36 km nizvodno od izvora rijeke Krke. Početak barijere čini niz malih kaskada (u narodu zvane Ogrlice) nakon kojih slijede brojni rukavci i otočići. Od Ogrlica vodi 517 drvenih stepenica prema Oziđanoj pećini. Preko sedrenih slapova prelazi cesta koja je obale povezivala još u rimska vremena. U najvećem dijelu Roškog slapa priroda je nedirnuta te je zanimljiva istinskim zaljubljenicima. Uz lijevu obalu slapišta niz je atraktivnih vodenica od kojih su neke i sada u upotrebi. Kompleks vodenica na Roškom slapu spada među posebno zanimljive i dragocjene etnografske spomenike Dalmacije i Hrvatske. ",
+          "image": "http://www.np-krka.hr/upload/stranice/2014/07/2014-07-31/18/rokislap29.jpg"
+        },
+        {
+          "title": "Manojlovački slapovi",
+          "text": "Samo nekoliko stotina metara od arheološkog lokaliteta Burnum, na cesti Knin - Kistanje nalazi se Manojlovački slap, treći, najviši, po mnogima i najljepši, slap rijeke Krke. Slap se sastoji od niza sedrenih barijera, ukupne visine 59,6 m. Najveća barijera visoka je 32,2 m. Kanjon oko slapa obrastao je bogatim submediteranskim raslinjem a uz tok rijeke nalaze se mala polja i pašnjaci. U razdoblju visokih voda slap se zaglušujuće obrušava u dubinu obavijen velom satkanim od kapi u paleti duginih boja. U toplom dijelu godine suh je jer mu vodu uzima akumulacija obližnje hidroelektrane Miljacka.",
+          "image": "http://www.np-krka.hr/upload/stranice/2014/07/2014-07-31/20/manojlovackislapovi50.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Paklenica",
+      "description": "Paklenica obuhvaća najatraktivnije prostore južnog dijela Velebita, najveće hrvatske planine, uključujući i njegove najviše vrhove. Glavna atrakcija Parka su dva impresivna klanca Velike i Male Paklenice, usječena u planinu od mora do pod same vrhove. Na razmjerno malom prostoru nacionalnog parka ima više neobičnih krških reljefnih formi, nekoliko spilja, a sačuvana je i izuzetno bogata i raznolika flora i fauna. Među strmim stijenama ističe se Anića kuk, najpopularnije odredište hrvatskih alpinista. Iako se radi o prostoru izrazite divljine i očuvane prirode, lako je dostupan posjetiteljima zbog blizine Jadranske turističke ceste i grada Zadra.",
+      "posts": [
+        {
+          "title": "Biljni i životinjski svijet",
+          "text": "Temeljni fenomeni NP Paklenica su šume i geomorfološke osobitosti parka. U gotovo nešumskom južnom dijelu Velebita u Paklenici se javlja izrazito bogatstvo šumskih zajednica, a posebno mjesto zauzimaju šume crnog bora (Pinus nigra) po čijoj je smoli (Paklini) koja se je iz njih u prošlosti vadila Paklenica i dobila ime, te bukve (Fagus sylvatica) i bora krivulja. Paklenica posjeduje najveći sačuvani šumski kompleks u Dalmaciji od oko 2000 ha. Oko 55% parka je prekriveno vegetacijom, dok je oko 45% goli krški reljef. Vegetacija se uglavnom sastoji od šuma bukve (52%), crnog bora (20%), njihovih miješanih šuma (8%), te šuma u kojima se nalaze drveća kao što su: hrast medunac (Quercus pubescens ), bijeli grab (Carpinus orientalis) i crni grab (Ostrya carpinifolia) (9%). Gornju granicu šuma obilježava planinski bor (Pinus mugo) koji čini oko 4%, dok livade i pašnjaci pokrivaju oko 7%[2]. Stanište je endemske biljčice hrvatskog naziva pjeskarica (Arenaria orbicularis) i drugih biljnih i životinjskih rariteta, prepun krških oblika.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Canyon_of_Paklenica.jpg"
+        },
+        {
+          "title": "Geomorfologija",
+          "text": "Od geomorfoloških osobina najzanimljiviji, a ujedno i najimpresivniji su kanjoni Male i Velike Paklenice koji se usjecaju duboko u utrobu Velebita. Paklenicu godišnje posjeti preko 100.000 posjetitelja, a najvjerniji posjetitelji su penjači koje se od proljeća do jeseni može vidjeti na stijenama Paklenice, posebice na najvećoj hrvatskoj stijeni Anića kuku (712 m). NP Paklenica zauzima površinu od 96 km2. Najviši vrhovi su Vaganski vrh (1757 m) i Sveto brdo (1753 m). U nacionalnom parku postoji i nekoliko špilja i jama od kojih su najpoznatije i najveće špilja Manita peć iznad kanjona Velike Paklenice i Jama Vodarica između kanjona Velike i Male Paklenice.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Paklenica_Buljma.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Plitvička jezera",
+      "description": "Plitvička jezera su najpoznatiji hrvatski nacionalni park, na popisu svjetske baštine UNESCO-a. Glavnu atrakciju ovog Parka, jedinstvenog u svijetu, čini 16 malih jezera međusobno povezanih slapovima nastalih taloženjem sedre (eng.travertine), posebne vrste vapnenca. Park obuhvaća izvorišni dio rijeke Korane u prostoru okruženom gustim šumama bukve, jele i smreke, dijelom u obliku izvorne prašume. Osim jezera i šuma, Park krasi i više spilja, izvora, cvjetnih livada, a među mnogim rijetkim očuvanim životinjskim vrstama ističe se smeđi medvjed. Ne zna se da li je Park ljepši u proljeće kad se rascvjeta cvijeće na njegovim livadama, da li za odraza jesenskog šarenila boje u jezerskim zrcalima ili za zimskog mira ledom sputanih vodopada u snježnom krajoliku.",
+      "posts": [
+     
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Kornati",
+      "description": "Kornati su najrazvedenija otočna skupina cijelog Sredozemlja, a nalaze se u sjevernoj Dalmaciji nedaleko Šibenika. Ovaj pravi labirint mora i kamena sastoji se od oko 140 nenaseljenih otoka, otočića i hridi s površinom od svega sedamdesetak četvornih kilometara. U neposrednoj blizini nacionalnog parka Kornati, koji obuhvaća veći dio otočja s okolnim more, je još jedan biser zaštićene prirode u Hrvatskoj – park prirode Telašćica. On obuhvaća prostrani i duboki istoimeni zaljev na susjednom Dugom otoku, u kojem također ima više lijepih malih otočića i neposredno uz more malo slano jezero. Kornatski otoci ističu se brojnim bizarnim oblicima i neobičnim reljefnim strukturama, te osobito visokim klifovima.",
+      "posts": [
+     
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Mljet",
+      "description": "Mljet je otok na krajnjem jugu Hrvatske, zapadno od najpoznatijeg hrvatskog ljetovališta Dubrovnika. Istoimeni nacionalni park obuhvaća zapadni dio ovog, po mnogima, najljepšeg otoka na Jadranu. Za ovaj su Park znakovita dva duboka zaljeva, koja se zbog vrlo uskih veza s otvorenim morem nazivaju jezerima, te bujna i raznolika sredozemna vegetacija. Mljet se ističe i bogatom kulturnom baštinom, a u okviru nje najimpozantniji primjer je kompleks benediktinskog samostana iz 12. stoljeća na malom otočiću usred jezera-zaljeva.",
+      "posts": [
+    
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Risnjak",
+      "description": "Mljet je otok na krajnjem jugu Hrvatske, zapadno od najpoznatijeg hrvatskog ljetovališta Dubrovnika. Istoimeni nacionalni park obuhvaća zapadni dio ovog, po mnogima, najljepšeg otoka na Jadranu. Za ovaj su Park znakovita dva duboka zaljeva, koja se zbog vrlo uskih veza s otvorenim morem nazivaju jezerima, te bujna i raznolika sredozemna vegetacija. Mljet se ističe i bogatom kulturnom baštinom, a u okviru nje najimpozantniji primjer je kompleks benediktinskog samostana iz 12. stoljeća na malom otočiću usred jezera-zaljeva.",
+      "posts": [
+
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Sjeverni Velebit",
+      "description": "Sjeverni Velebit najmlađi je hrvatski nacionalni park, osnovan 1999. godine. Njime se željelo obuhvatiti najatraktivnije i prirodno najvrednije prostore sjevernog dijela Velebita. U prostoru ovog izrazito gorskog parka koncentriran je na malom prostoru izuzetno velik broj atrakcija - veličanstvene krške forme Hajdučkih i Rožanskih kukova, jedinstveni botanički vrt u prirodi, Lukina jama, jedna od najdubljih na svijetu. Stoga hrvatski planinari upravo ovaj prostor smatraju najvećim draguljem među hrvatskim gorama. sNešto slabija posjećenost uvjetovana udaljenošću od glavnih prometnica samo povećava mističnost i iskonski prirodni ambijent ovog prostora.",
+      "posts": [
+
+      ]
+    }
+  ]
+}

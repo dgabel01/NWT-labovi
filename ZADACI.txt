@@ -1,0 +1,5 @@
+Dodati detekciju da je doslo do promjene parka (props) i ažurirati Park komponentu
+Dodati Comments komponentu u rutiranje
+Dohvatiti komentare sa https://jsonplaceholder.typicode.com/comments
+Odabrati 10 komentara i prikazati ih
+Dodati 2 funkcionalnosti: loading state dok se učitavaju komentari te error, ukoliko nešto pođe po krivu
