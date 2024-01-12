@@ -1,7 +1,6 @@
-//funkcionalna komponenta lab6
-
 import * as React from 'react';
 import styles from "./comments.module.css";
+import AddComment from './addcomment';
 
 
 export interface CommentsProps {
@@ -14,7 +13,6 @@ export interface CommentsState {
     error: any;
 }
 
-
 interface Comment {
     postId: number;
     id: number;
@@ -23,41 +21,60 @@ interface Comment {
     body: string;
 }
 
-const Comments2:React.FC<CommentsProps> = () =>{
+class Comments extends React.Component<CommentsProps, CommentsState> {
+    constructor(props: CommentsProps) {
+        super(props);
+        this.state = {
+            comments: [],
+            isLoading: false,
+            error: null,
+        };
+    }
 
-    const[comments, setComments] = React.useState<Comment[]>([]);   
-    const[isLoading, setLoading] = React.useState<boolean>(false);
-
-
-    React.useEffect(() => {
-        const fetchData = async () => {
-            try {
-                setLoading(true);
-                const response = await fetch("https://jsonplaceholder.typicode.com/comments");
-
-                if (!response.ok) {
+    componentDidMount() {
+        this.setState({ isLoading: true });
+        fetch("https://jsonplaceholder.typicode.com/comments")
+            .then((response) => {
+                if (response.ok) {
+                    return response.json();
+                } else {
                     throw new Error("Something went wrong ...");
                 }
+            })
+            .then((data) =>
+                this.setState({ comments: data.slice(0, 10), isLoading: false })
+            )
+            .catch((error) => this.setState({ error, isLoading: false }));
+    }
 
-                const data = await response.json();
-                setComments(data.slice(0, 15));
-                setLoading(false);
-            } catch (error) {
-                console.log(error);
-            }
-        };
+    addComment = (email:string, comment:string) => {
+        this.setState({
+            comments:[
+                ...this.state.comments, //spread
+                {
+                    postId:0,
+                    id: this.state.comments.length +1,
+                    name:'',
+                    email,
+                    body:  comment,
+                },
+            ],
+           
+        });
+    };
 
-        fetchData();
-    }, []); 
-    return(
-        <>
+    render() {
+        return (
+            <>
                 <div className="titleContainer">
-                <h1 className={styles.title}>Komentari :</h1>
+                    <h1 className={styles.title}>Komentari :</h1>
                 </div>
                 <div className={styles.commentsContainer}>
-                    {   isLoading
-                        ? "Komentari se učitavaju..." 
-                            : comments.map((comment: Comment) => (
+                    {this.state.isLoading
+                        ? "Komentari se učitavaju..."
+                        : this.state.error && !this.state.comments
+                            ? "Došlo je do greške pri učitavanju komentara."
+                            : this.state.comments.map((comment: Comment) => (
                                 <div key={comment.id} className={styles.commentContainer}>
                                     <div className={styles.commentPersonal}>
                                         <div className={styles.commentEmail}>
@@ -74,11 +91,10 @@ const Comments2:React.FC<CommentsProps> = () =>{
                                 </div>
                             ))}
                 </div>
+                <AddComment submitHandler={(email, comment)=>this.addComment(email,comment)}></AddComment>
             </>
-
-    );
+        );
+    }
 }
 
-
-
-export default Comments2;
+export default Comments;
